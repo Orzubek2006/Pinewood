@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container_three {
+    width: 1300px;
+    height: 550px;
+    margin: 0 auto;
+    background-image: url(../../public/archa.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: bottom;
+
+}
+
+.box2 {
+    width: 1100px;
+    height: 120px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.h1-1 {
+    width: 500px;
+}
+
+.p3 {
+    width: 300px;
+}
+
+.number {
+    width: 1200px;
+    height: 300px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.box3 {
+    width: 330px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.h2-2 {
+    color: #8B9D83;
+    font-size: 35px;
+}

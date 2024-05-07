@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper2-one {
+    width: 1300px;
+    height: auto;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.box2-one {
+    width: 1250px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.box2-two {
+    width: 600px;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+}
+
+.btne {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.get {
+    width: 250px;
+    height: 40px;
+    border: none;
+    background: #8B9D83;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.got {
+    width: 250px;
+    height: 40px;
+    border: 2px solid #8B9D83;
+    color: #8B9D83;
+    border-radius: 20px;
+}
+
+.box2-three {
+    width: 1250px;
+    height: 800px;
+}
+
+.box3-one {
+    width: 1200px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.mode {
+    width: 250px;
+    height: 350px;
+    border: 2px solid #8B9D83;
+    border-radius: 15px 15px 30px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.box2-four {
+    width: 1200px;
+    height: 530px;
+}
+
+.tell {
+    width: 1200px;
+    height: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.tell2 {
+    width: 500px;
+    height: 400px;
+    overflow: hidden;
+    border: 2px solid #8B9D83;
+    border-radius: 15px 15px 30px 30px;
+}
+
+.box2-six {
+    width: 1250px;
+    height: 870px;
+}
+
+.box3-1 {
+    width: 1200px;
+    height: 750px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.box3-2 {
+    width: 350px;
+    height: 100%;
+}
+
+.imgj {
+    width: 100%;
+}
+
+.imgk {
+    width: 100%;
+    height: 200px;
+}
+
+.imgh {
+    width: 100%;
+}
+
+.imgl {
+    width: 100%;
+}
+
+.btnr {
+    width: auto;
+    height: 40px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #8B9D83;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+
+.df {
+    width: 400px;
+}
+
+.dd {
+    width: 500px;
+}
+
+.jj {
+    width: 500px;
+}
